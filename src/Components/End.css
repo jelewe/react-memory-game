@@ -1,0 +1,19 @@
+.EndGame { 
+    position: absolute;
+    top: 0;
+    padding: 50px;
+    font-size: 25px;
+    background: white;
+    height: 100vh;
+    width:100vw;
+}
+
+.DisplayScore {
+    text-align: center;
+}
+
+button:hover {
+    cursor: pointer;
+    background: black;
+    color: white;
+}

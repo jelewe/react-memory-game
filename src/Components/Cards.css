@@ -1,0 +1,13 @@
+.Card {
+    height: 120px;
+    width: 150px;
+    background-position: top;
+    color: white;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.Card:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
