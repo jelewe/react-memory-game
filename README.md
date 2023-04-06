@@ -1,5 +1,8 @@
-This project was built as part of <a href="https://www.theodinproject.com/">The Odin Project.</a> I developed this Memory Game using functional React components and lifecycle hooks. 
-You can view the project here: https://jelewe.github.io/react-memory-game/
+:star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2: <br />
+This project was built as part of <a href="https://www.theodinproject.com/">The Odin Project.</a> <br />
+I developed this Memory Game using functional React components and lifecycle hooks. <br />
+You can view the project here: https://jelewe.github.io/react-memory-game/ <br />
+:star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2:
 
 
 # Getting Started with Create React App
